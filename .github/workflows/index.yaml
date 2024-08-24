@@ -1,4 +1,4 @@
-name: Demo Action
+name: Deploy
 
 on:
   push:
